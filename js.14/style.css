@@ -1,0 +1,48 @@
+@font-face{
+    font-family: myfont;
+    src:url("digital-7\ \(mono\ italic\).ttf");
+}
+.btn {
+    height: 60px;
+    width: 60px;
+    font-size: 25px;
+    box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    padding: 10px;
+    border: none;
+    background-color: #ee6306;
+    color: white;
+    border-radius:10px;
+}
+.btn2 {
+    height: 30px;
+    width: 125px;
+    font-size: 15px;
+    box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 3px 12px -2px rgba(0,0,0,0.75);
+    padding: 10px;
+    border: none;
+    border-radius:10px;
+    background-color: #922f02;
+    color: white;
+}
+input {
+    height: 40px;
+    width: 247px;
+    font-size: 35px;
+    background-color: #CDDBDC;
+    font-family: myfont;
+}
+.cal-box{
+    padding: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    background-color: #606c36;
+    color: white;
+    border-radius: 10px;
+    box-shadow: -1px 0px 5px 4px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -1px 0px 5px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 5px 4px rgba(0,0,0,0.75);
+}
